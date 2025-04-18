@@ -1,0 +1,5 @@
+{
+  "name": "halo",
+  "description": "Membalas ketika pengguna menyapa.",
+  "examples": ["Halo", "Hai", "Selamat pagi"]
+}
